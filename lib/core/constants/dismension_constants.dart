@@ -1,0 +1,17 @@
+const double pading37 = 37.0;
+const double pading20 = 20.0;
+const double padingNameAvatar12 = 12.0;
+const double padingName7 = 7.0;
+const double padingInfo6 = 6.0;
+const double padingTop = 50.0;
+const double paddingcontainer = 25.0;
+const double paddingCircle = 3.0;
+const double paddingRight70 = 70.0;
+const double circleavatarnoboder = 23.0;
+const double circleradius = 20.0;
+const double circleRadiusSecond = 18.0;
+const double sizeicon = 90.0;
+const double padding5 = 5;
+const double paddingIcon72 = 72;
+const double widthboxnameprice90 = 90;
+const double heightboxnameprice150 = 150;
